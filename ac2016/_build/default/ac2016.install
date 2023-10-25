@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/ac2016/META"
+  "_build/install/default/lib/ac2016/dune-package"
+  "_build/install/default/lib/ac2016/opam"
+]
+bin: [
+  "_build/install/default/bin/day1"
+]
