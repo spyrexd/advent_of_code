@@ -1,4 +1,4 @@
 (executables
- (public_names day1)
- (names day1)
+ (public_names day01 day02 day03 day04)
+ (names day01 day02 day03 day04
  (libraries ac2016 base stdio))
