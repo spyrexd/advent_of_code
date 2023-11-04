@@ -1,5 +1,5 @@
 (executables
- (public_names day01 day02 day03 day04)
- (names day01 day02 day03 day04)
- (libraries ac2016 base stdio ppx_show.runtime)
+ (public_names day01 day02 day03 day04 day05)
+ (names day01 day02 day03 day04 day05)
+ (libraries ac2016 base stdio ppx_show.runtime hex)
  (preprocess (pps ppx_show)))
